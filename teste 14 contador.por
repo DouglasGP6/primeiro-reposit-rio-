@@ -19,7 +19,7 @@ programa
           enquanto(contador > 0){
 
           	limpa()
-          	escreva("Detonação da bomba relógio em: ", contador, " segundos")
+          	escreva("Detonação da bomba relógio em: ", contador, " segundos: ")
 
           	contador--
 
